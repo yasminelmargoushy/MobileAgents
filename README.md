@@ -10,7 +10,7 @@
  
  >> Build & Run:
   (1) Open the Project using Netbeans IDE.
-  (2) Build Each of the 3 Source file separetly.
+  (2) Build Each of the 3 Source file separately.
   (3) Run the DecisionMakingNode.java File.
   (4) Run the ComputationalNode.java File.
   (5) Run the SensingNode.java File.
